@@ -30,7 +30,7 @@ Construo do zero ao deploy: levantamento de requisitos, arquitetura, desenvolvim
 
 ## 🚀 Projetos em Produção
 
-### 🚗 LisbonFleet / CliqueReserve
+### 🚗 LisbonFleet / Clickreserve.uk
 
 > Plataforma de mobilidade premium white-label, concorrente do Blacklane e SIXT Chauffeur
 
