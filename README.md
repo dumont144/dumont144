@@ -141,7 +141,7 @@ Construo do zero ao deploy: levantamento de requisitos, arquitetura, desenvolvim
 |                            |                             |
 |----------------------------|-----------------------------|
 |🗓️ Anos de experiência       |**8 anos**                   |
-|💶 Projetos entregues        |Budgets de **€500 a €4.000** |
+|💶 Projetos entregues        |Budgets de **€1.500 a €20.000** |
 |🌍 Projetos em produção na UE|**Sim**                      |
 |📱 Apps publicados           |Google Play ✓                |
 |🔧 Ciclo completo            |Requisitos → Deploy → Suporte|
