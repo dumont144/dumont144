@@ -123,17 +123,29 @@ Construo do zero ao deploy: levantamento de requisitos, arquitetura, desenvolvim
 ## 🧠 Especialidades
 
 ✅ SaaS multi-tenant com Row-Level Security (Supabase + PostgreSQL)
+
 ✅ Apps mobile completos — React Native + Expo + EAS Build + publicação nas lojas
+
 ✅ Sistemas de reserva e agendamento em tempo real
+
 ✅ Plataformas de mobilidade (tipo Blacklane) com painel de motorista e rastreamento
+
 ✅ Integração de IA — Claude Vision, Anthropic API, automações inteligentes
+
 ✅ Scraping avançado com Playwright (anti-detection, automação de dados)
+
 ✅ Autenticação segura — JWT, OAuth, Supabase Auth, Row-Level Security
+
 ✅ Pagamentos com Stripe — checkout, assinaturas e webhooks
+
 ✅ Geração de PDFs dinâmicos e relatórios exportáveis
+
 ✅ APIs RESTful bem arquitetadas e escaláveis
+
 ✅ Deploy e infra — Netlify, Vercel, domínios personalizados
+
 ✅ LGPD / RGPD — conformidade, políticas de privacidade e termos de uso
+
 ✅ Ciclo completo: levantamento → desenvolvimento → deploy → suporte
 
 -----
