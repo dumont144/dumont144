@@ -158,7 +158,8 @@ Construo do zero ao deploy: levantamento de requisitos, arquitetura, desenvolvim
 ✅ Publicação e manutenção de apps nas lojas
 
 ✅ LGPD / RGPD — conformidade e políticas de privacidade
-----
+
+-----
 
 ## 📊 Experiência em Números
 
