@@ -86,7 +86,7 @@ Construo do zero ao deploy: levantamento de requisitos, arquitetura, desenvolvim
 - To-do list diária por projeto
 - Relatório semanal exportável (horas trabalhadas + tarefas)
 - Deploy no Netlify com Supabase como backend
-
+- Hospedado em [devtrackerv1.netlify.app](https://devtrackerv1.netlify.app)
 -----
 
 ## 🛠️ Stack Técnica
