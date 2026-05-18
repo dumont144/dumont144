@@ -124,22 +124,39 @@ Construo do zero ao deploy: levantamento de requisitos, arquitetura, desenvolvim
 
 
 ✅ React — SPAs, dashboards, interfaces complexas
+
 ✅ Next.js — SSR, SSG, rotas dinâmicas, API Routes
+
 ✅ React Native + Expo — apps mobile iOS e Android do zero
+
 ✅ EAS Build — build e publicação na Play Store e App Store
+
 ✅ TypeScript — tipagem, interfaces, generics
+
 ✅ Tailwind CSS — UI responsiva e componentizada
+
 ✅ Node.js — APIs REST, middlewares, integrações
+
 ✅ Supabase — banco de dados, autenticação, real-time, RLS
+
 ✅ PostgreSQL — modelagem, queries, relacionamentos
+
 ✅ Stripe — pagamentos, assinaturas, webhooks
+
 ✅ Playwright — automação, scraping, testes E2E
+
 ✅ JWT + OAuth — autenticação e autorização segura
+
 ✅ Deploy — Netlify, Vercel, domínios, CI/CD
+
 ✅ Geração de PDFs dinâmicos
+
 ✅ Integração com APIs externas e serviços de terceiros
+
 ✅ Arquitetura de sistemas SaaS multi-tenant
+
 ✅ Publicação e manutenção de apps nas lojas
+
 ✅ LGPD / RGPD — conformidade e políticas de privacidade
 ----
 
