@@ -142,7 +142,7 @@ Construo do zero ao deploy: levantamento de requisitos, arquitetura, desenvolvim
 |----------------------------|-----------------------------|
 |🗓️ Anos de experiência       |**8 anos**                   |
 |🌍 Projetos em produção na UE|**Sim**                      |
-|📱 Apps publicados           |Google Play ✓                |
+|📱 Apps publicados           |Google Play ✓ / Apple Store ✓|
 |🔧 Ciclo completo            |Requisitos → Deploy → Suporte|
 
 -----
